@@ -1,9 +1,9 @@
-# Cartilage_thickness_from_CT
+Cartilage_thickness_from_CT
+=======
 Calculates cartilage thickness from a chosen location in CT image
-
+-----------
 Developed for Mach-1 measurements.
-
-(c) Janne M??kel?? November / 2018
+Original commit: Janne Mäkelä November / 2018
 
 Click on the measurement location and measure
 Calculates cartilage thickness from a chosen location in CT image.
@@ -19,3 +19,16 @@ for example, open both images in inkscape, rotate and resize the mapping image t
 correspond with CT image (change the opacity of CT image to see better)
 draw a rectancle around the ct image, hide the CT image, take a
 screencap/save the image of the rectancle and the biomomentum grid image
+-----------
+
+**File list:**
+  * Cartilage_thickness_from_CT.m - Analysis
+  
+-----------
+
+**Preferable future commits:**
+  * Better commenting
+  * Flashier plots
+  * _Fill_ _here_
+  
+------------
